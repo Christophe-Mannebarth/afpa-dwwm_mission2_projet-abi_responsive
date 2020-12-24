@@ -6,9 +6,9 @@ responsive le Projet ABI d'une autre équipe. Ici en l'occurence l'équipe SGMC.
 Les contraintes ont été:
   - Utiliser les médias queries
   - Utiliser Max-Width
-  - Rem
-  - VH
-  - Viewport
+  - em
+  - vh
+  - viewport
 
 Pour ce faire nous avons:
   - Réorganisé la structure des dossiers
