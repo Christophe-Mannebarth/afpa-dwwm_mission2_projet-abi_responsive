@@ -15,3 +15,7 @@ Pour ce faire nous avons:
   - Renommé les fichiers et dossiers
   - Réecrit le CSS
   
+Projet initial non responsive: https://abi-sgmc.herokuapp.com/
+
+Projet rendu responsive par l'équipe Digi Geeks: https://christophe-mannebarth.github.io/afpa-dwwm_mission2_projet-abi_responsive/
+  
